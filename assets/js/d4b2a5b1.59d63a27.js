@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcatstack_release=self.webpackChunkcatstack_release||[]).push([[8408],{8397:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/catstack/blog/tags/hola","allTagsPath":"/catstack/blog/tags","count":1}')}}]);
