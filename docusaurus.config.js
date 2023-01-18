@@ -15,8 +15,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   url: "https://limonikas-org.github.io",
-  baseUrl: "/",
-  projectName: "limonikas-org.github.io", // Usually your repo name.
+  baseUrl: "/catstack/",
+  projectName: "catstack-release", // Usually your repo name.
   organizationName: "limonikas-org", // Usually your GitHub org/user name.
   deploymentBranch: "gh-pages",
   trailingSlash: false,
